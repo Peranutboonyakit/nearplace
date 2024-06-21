@@ -1,4 +1,4 @@
-# Getting Started Todo List
+# Getting Started Near Place
 
 In the project directory, you can run:
 
